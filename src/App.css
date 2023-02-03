@@ -1,0 +1,28 @@
+:root{
+  --color-dark:  #27292a;
+  --color-darkest:  #1f2122;
+  --color-light:  #fff;
+  --color-primary:  #ec6090;
+  --dis-primray:50px;
+  --padding-primray:var(--dis-primray);
+  --margin-primray:var(--dis-primray);
+  --border-radius-primary: calc(var(--dis-primray) /2) ;
+  --font-weight-bold:900;
+  --font-weight-normal:300;
+  /* --font-family-primary:font-family: 'Poppins', sans-serif; */
+}
+body{
+  background-color: var(--color-darkest);
+  /* font-family: var(--font-family-primary) */
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&family=Tajawal:wght@200;300;400&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap');
+.App {
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}

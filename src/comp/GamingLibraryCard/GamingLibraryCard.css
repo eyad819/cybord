@@ -1,0 +1,18 @@
+.gaming-library-cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+/* .main-button{
+  background-color: var(--color-primary);
+  padding: 5px 10px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+.main-button:hover{
+  background-color: #6a273e;
+}
+.main-button a{
+  color: white;
+} */
